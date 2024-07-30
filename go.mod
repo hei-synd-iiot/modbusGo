@@ -1,4 +1,4 @@
-module github.com/simonvetter/modbus
+module github.com/Klagarge/modbusGo
 
 go 1.16
 
