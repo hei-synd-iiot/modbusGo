@@ -1,4 +1,4 @@
-module github.com/Klagarge/modbusGo
+module github.com/hei-synd-iiot/modbusGo
 
 go 1.16
 

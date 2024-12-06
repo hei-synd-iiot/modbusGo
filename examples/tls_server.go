@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Klagarge/modbusGo"
+	"github.com/hei-synd-iiot/modbusGo"
 )
 
 /* Modbus TCP+TLS (MBAPS or Modbus Security) server example.

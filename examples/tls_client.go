@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Klagarge/modbusGo"
+	"github.com/hei-synd-iiot/modbusGo"
 )
 
 /*

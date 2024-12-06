@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Klagarge/modbusGo"
+	"github.com/hei-synd-iiot/modbusGo"
 )
 
 func main() {
